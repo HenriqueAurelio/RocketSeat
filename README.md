@@ -1,6 +1,6 @@
 # Módulo 2
 
-Esse módulo foi desenvolvido um site de controle financeiro onde é possível registrar saídas,entradas e totalizar o seu somatório.
+Nesse módulo foi desenvolvido um site de controle financeiro onde é possível registrar saídas,entradas e totalizar o seu somatório.
 
 ### Nesse módulo foram abordados
 
