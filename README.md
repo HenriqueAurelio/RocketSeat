@@ -2,4 +2,4 @@
 
 Repositório para projetos da Rocketseat
 
-#### Cada Branch representa um módulo do curso onde certos conteúdos foram abordados, cada branch possui seu próprio readme.
+#### Cada Branch representa um módulo do curso onde certos conteúdos foram abordados e possui próprio readme.
