@@ -1,6 +1,6 @@
 # Módulo 1
 
-Esse módulo foi desenvolvido um git explorer onde lista meus repositórios que são captados pela api do github.
+Nesse módulo foi desenvolvido um git explorer onde lista meus repositórios que são captados pela api do github.
 
 ### Nesse módulo foram abordados
 
