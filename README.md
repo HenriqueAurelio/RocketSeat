@@ -10,4 +10,4 @@ Nesse módulo foi desenvolvido um git explorer onde lista meus repositórios que
 4. Imutabilidade do React
 5. Componetização no React
 6. Propriedades no React
-
+7. Typescript
