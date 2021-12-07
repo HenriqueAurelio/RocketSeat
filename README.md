@@ -12,4 +12,5 @@ Nesse módulo foi desenvolvido um site de controle financeiro onde é possível 
 6. Criação de um próprio hook
 7. Estilos globais
 8. React Modal
+9. Typescript
 
